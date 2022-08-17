@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48df17ad-a138-4df0-b73c-05f92bfbb644" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Clase 11/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 11/Clase 11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 11/Clase11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leccion1/HolaMundo/src/Clase11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leccion1/HolaMundo/src/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CadenasJava/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CadenasJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CadenasJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CadenasJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CadenasJava/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CadenasJava/CadenasJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CadenasJava/src/Cadenas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CicloWhile/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CicloWhile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CicloWhile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CicloWhile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CicloWhile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CicloWhile/CicloWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/CicloWhile/src/CicloWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos/Ciclos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos/src/Ciclos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos2/Ciclos2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Ciclos2/src/Ciclos2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Do While/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Do While/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Do While/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Do While/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Do While/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Do While/Do While.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Do While/src/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Fibonacci/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Fibonacci/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Fibonacci/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Fibonacci/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Fibonacci/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Fibonacci/Fibonacci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Fibonacci/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Matrices/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Matrices/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Matrices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Matrices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Matrices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Matrices/Matrices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Matrices/src/Matrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores/Vectores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores/src/Vectores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores1/Vectores1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/Vectores1/src/Vectores1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/VectoresDinamicos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/VectoresDinamicos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/VectoresDinamicos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/VectoresDinamicos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/VectoresDinamicos/src/VectoresDinamicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/While y DoWhile/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/While y DoWhile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/While y DoWhile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/While y DoWhile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/While y DoWhile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/While y DoWhile/While y DoWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Ciclos Java/While y DoWhile/src/WhileDowhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Practica Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/PracticaSWITHC/PracticaJava/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/PracticaSWITHC/PracticaJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/PracticaSWITHC/PracticaJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/PracticaSWITHC/PracticaJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/PracticaSWITHC/PracticaJava/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/PracticaSWITHC/PracticaJava/PracticaJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/PracticaSWITHC/PracticaJava/src/SwithcCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica Java/Sistemadecontrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema.java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema.java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema.java/Sistema.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema.java/src/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Clase9/clase10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Clase9/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Clase9/mainClase9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/PythonEjercicio9/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Leccion1/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Leccion1/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Leccion1/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Leccion1/venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Leccion1/venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Leccion1/venv/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Leccion1/venv/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../readme/readme.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Leccion1/HolaMundo/src/HolaMundo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Leccion1/HolaMundo/src/Leccion2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Leccion1/HolaMundo/src/Leccion3.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Leccion1/HolaMundo/src/Leccion5.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Leccion1/HolaMundo/src/Leccion6.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Leccion1/HolaMundo/src/Leccion7.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Leccion1/HolaMundo/src/tiendadelibros.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29AAT20DXDzHo9U6TCagq9qGqVb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yair_/Cosas pc nuevas/TecnicaturaGit/Java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Ejercicio3">
+    <configuration name="CondicionalEjercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CondicionalEjercicio1" />
+      <module name="TecnicaturaGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio3" />
+      <module name="TecnicaturaGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HolaMundo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HolaMundo" />
+      <module name="TecnicaturaGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leccion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leccion2" />
+      <module name="TecnicaturaGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leccion3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Leccion3" />
+      <module name="TecnicaturaGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tiendadelibros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiendadelibros" />
+      <module name="TecnicaturaGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ejercicio3" />
+      <item itemvalue="Application.HolaMundo" />
+      <item itemvalue="Application.Leccion3" />
+      <item itemvalue="Application.CondicionalEjercicio1" />
+      <item itemvalue="Application.Leccion2" />
+      <item itemvalue="Application.tiendadelibros" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CondicionalEjercicio1" />
+        <item itemvalue="Application.Leccion2" />
+        <item itemvalue="Application.tiendadelibros" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48df17ad-a138-4df0-b73c-05f92bfbb644" name="Changes" comment="" />
+      <created>1652545521910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652545521910</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
