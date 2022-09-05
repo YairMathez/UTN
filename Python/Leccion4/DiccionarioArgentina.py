@@ -11,4 +11,3 @@ laScaloneta = {
 }
 for llave, valor in laScaloneta.items():
     print(llave, valor)
-
