@@ -1,3 +1,4 @@
+
 laScaloneta = {
     10: {'Nombre': 'Lionel Messi', 'Edad': 35, 'Altura': 1.70, 'Precio':'50 Millones', 'Posicion': 'Enganche'},
     11: {'Nombre': 'Angel Di Maria', 'Edad': 34, 'Altura': 1.80, 'Precio': '28 Millones', 'Posicion': 'Media Punta'},

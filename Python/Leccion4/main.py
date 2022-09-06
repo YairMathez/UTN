@@ -1,6 +1,6 @@
 # lista = Ariel ,Liliana, Natalia, Osvaldo
 #Colecciones en Python
-'''''''''
+
 nombres = ['Naty', 'Liliana', 'Osvaldo', 'Ariel']
 print(nombres)
 print(nombres[0:2]) #Solo muestra el indice 0, 1 pero no el indice 2
@@ -43,7 +43,7 @@ print(nombres)
 # Elimar la lista
 del nombres
 print(nombres)
-'''''
+
 # Definimos una tupla
 cocina = ('Cuchara', 'cuchillo', 'tenedor')
 print(len(cocina))
@@ -181,3 +181,11 @@ print(lista3)
 
 tupla = (4, 'Hola' ,6.78, [1,2,78], 4, 'Hola')
 print(tupla)
+
+#Ejercicio Colecciones
+lista = (Yair, Pancho, Gustavo, Julian)
+lista = []
+for lista in lista
+    if lista <5:
+        lista.append(lista)
+print(lista)
